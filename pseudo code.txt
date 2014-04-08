@@ -1,0 +1,15 @@
+IMPORT pygame sys CarPlateRegistrationSystem time
+#initial import of the programs modules
+initialise pygame
+#initialises pygame
+width = 400
+height = 200
+screen = (width,height)
+#sets screen dimensions
+
+carplaterigistrationsystem clearFile
+#Clears the file
+
+class button
+	#defines the class button
+	
